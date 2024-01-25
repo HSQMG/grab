@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "982285894910",
+    "project_id": "grab-intro2sw-96bbf",
+    "storage_bucket": "grab-intro2sw-96bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982285894910:android:76d788fe01c06b8b1351af",
+        "android_client_info": {
+          "package_name": "com.example.grab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982285894910-3a7vfpht2hehcdq2tqm2bd4hono96flb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grab",
+            "certificate_hash": "11107d9c856aa1ad30876526b4536713f972a429"
+          }
+        },
+        {
+          "client_id": "982285894910-pen3hpo6cj0ch556ocoh3hfkq0b4k2bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVMTMWKSPn9RyjZmF6C4KdYvmYIPg6Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982285894910-pen3hpo6cj0ch556ocoh3hfkq0b4k2bq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982285894910-3t6qc74qop1gfin634aaqn0vb1eeuvgq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.grab.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
