@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("QpClientLogsFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("1744248");b=d("FalcoLoggerInternal").create("qp_client_logs",a);e=b;g["default"]=e}),98);

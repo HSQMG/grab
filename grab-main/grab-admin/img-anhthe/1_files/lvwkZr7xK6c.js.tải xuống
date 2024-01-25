@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("CometStickerPickerPopoverRoot.react",["CometPopover.react","CometRelay","react"],(function(a,b,c,d,e,f,g){"use strict";var h,i=h||d("react");function a(a){var b=a.entryPoints.stickerPickerCardEntrypointReference;a=babelHelpers["extends"]({},a.props);a;return i.jsx(c("CometPopover.react"),{withArrow:!0,children:i.jsx(d("CometRelay").EntryPointContainer,{entryPointReference:b,props:a})})}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
+__d("MiniShopHamburgerDropdownMenuQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5106687832719145"}),null);
